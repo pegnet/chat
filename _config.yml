@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: PegNet Chat
 logo: "https://pegnet.org/assets/img/logo.png"
 google_analytics: UA-147961677-1
+plugins:
+    - jekyll-redirect-from
+
